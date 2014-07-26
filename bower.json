@@ -1,0 +1,9 @@
+{
+  "name": "sass",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "susy": "~1.0.9"
+  },
+  "devDependencies": {}
+}
